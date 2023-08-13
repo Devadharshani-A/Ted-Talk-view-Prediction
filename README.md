@@ -3,27 +3,36 @@ This repository contains a Python script for predicting TED Talk views based on 
 
 ## Table of Contents
 
--[Introduction](#introduction)
--[Installation](#installation)
--[Usage](#usage)
--[Data](#data)
--[Feature Engineering](#feature-engineering)
--[Model Training](#model-training)
--[Evaluation](#evaluation)
--[Conclusion](#conclusion)
+- [Introduction](#introduction)
+  - Brief overview of the project
+- [Installation](#installation)
+  - Dependencies required
+- [Usage](#usage)
+  - Steps to use the script
+- [Data](#data)
+  - Description of the dataset
+- [Feature Engineering](#feature-engineering)
+  - Explanation of feature preprocessing
+- [Model Training](#model-training)
+  - Details about the trained models
+- [Evaluation](#evaluation)
+  - Explanation of evaluation metrics
+- [Conclusion](#conclusion)
+  - Final thoughts and recommendations
 
 
 ## Introduction
 This Python script is designed to predict the number of views for TED Talk videos based on a variety of features. The script utilizes machine learning models to make predictions and evaluate their performance.
 
 ## Installation
+
 To run the script, you'll need the following dependencies:
 
-Python (>= 3.6)
-pandas
-numpy
-scikit-learn
-nltk
+- Python (>= 3.6)
+- pandas
+- numpy
+- scikit-learn
+- nltk
 
 You can install these dependencies using the following command:
 pip install pandas numpy scikit-learn nltk
