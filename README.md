@@ -3,14 +3,14 @@ This repository contains a Python script for predicting TED Talk views based on 
 
 ## Table of Contents
 
-[Introduction](#introduction)
-[Installation](#installation)
-[Usage](#usage)
-[Data](#data)
-[Feature Engineering](#feature-engineering)
-[Model Training](#model-training)
-[Evaluation](#evaluation)
-[Conclusion](#conclusion)
+-[Introduction](#introduction)
+-[Installation](#installation)
+-[Usage](#usage)
+-[Data](#data)
+-[Feature Engineering](#feature-engineering)
+-[Model Training](#model-training)
+-[Evaluation](#evaluation)
+-[Conclusion](#conclusion)
 
 
 ## Introduction
